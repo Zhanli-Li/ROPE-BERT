@@ -19,10 +19,10 @@
 ### 1. code/
 核心代码及数据集：
 
-- [`bert.ipynb`](code/bert.ipynb)：BERT 相关实验 Jupyter Notebook
-- [`rope.ipynb`](code/rope.ipynb)：ROPE 相关实验 Jupyter Notebook
+- [`bert.ipynb`](code/bert.ipynb)：正余弦位置编码 相关实验 Jupyter Notebook
+- [`rope.ipynb`](code/rope.ipynb)：旋转位置编码 相关实验 Jupyter Notebook
 - [`weibo_senti_100k.csv`](code/weibo_senti_100k.csv)：微博情感分析数据集
-- [`readme.md`](code/readme.md)：（暂无内容）
+
 
 ---
 
@@ -31,14 +31,14 @@
 
 - [`bert_metrics.csv`](metrics/bert_metrics.csv)：BERT 模型实验结果
 - [`rope_bert_metrics.csv`](metrics/rope_bert_metrics.csv)：ROPE-BERT 模型实验结果
-- [`readme.md`](metrics/readme.md)：（暂无内容）
+
 
 ---
 
 ### 3. pre trained model/
 预训练模型相关文件：
 
-- [`readme.md`](pre%20trained%20model/readme.md)：模型说明（可根据需要补充）
+- [`readme.md`](pre%20trained%20model/readme.md)：训练权重下载地址
 
 ---
 
