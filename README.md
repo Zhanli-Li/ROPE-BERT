@@ -1,6 +1,6 @@
 # 旋转位置编码下的情绪分类 (Emotion Classification with Rotated Position Encoding)
 
-本项目为数据科学相关课题开发，适用于学习与研究用途，禁止商业用途。  
+本项目为中南财经政法大学数据科学与算法实践课程（[王新宇教授](https://wls.zuel.edu.cn/2022/0517/c3776a299072/page.htm)开设）开发，适用于学习与研究用途，禁止商业用途。  
 如遇到问题，欢迎在 Issues 区留言。  
 This project is related to data science and is developed for learning and research purposes only. Commercial use is prohibited.  
 If you encounter any issues, feel free to leave a comment in the Issues section.
