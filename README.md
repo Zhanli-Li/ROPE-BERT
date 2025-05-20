@@ -2,7 +2,8 @@
 
 本项目为数据科学相关课题开发，适用于学习与研究用途，禁止商业用途。  
 如遇到问题，欢迎在 Issues 区留言。
-
+作者：[Zhanli Li / 李展利](https://zhanli-li.github.io/)
+指导老师：[Xingyu Wang / 王新宇](https://wls.zuel.edu.cn/2022/0517/c3776a299072/page.htm)
 ---
 
 ## 目录结构与说明
