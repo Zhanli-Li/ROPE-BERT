@@ -15,7 +15,7 @@ If you encounter any issues, feel free to leave a comment in the Issues section.
 
 ### 根目录 (Root Directory)
 - `README.md`：项目说明文件 (Project description file)
-- `数据科学结课作业.pdf`：结课作业报告 (Final project report)
+- `[压缩]rope-bert.pdf`：结课作业报告 (Final project report)
 - `code/`：核心代码及数据 (Core code and data)
 - `metrics/`：模型评估指标 (Model evaluation metrics)
 - `pre trained model/`：预训练模型相关文件 (Pretrained model related files)
