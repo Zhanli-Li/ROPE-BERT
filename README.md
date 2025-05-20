@@ -5,9 +5,8 @@
 This project is related to data science and is developed for learning and research purposes only. Commercial use is prohibited.  
 If you encounter any issues, feel free to leave a comment in the Issues section.
 
-- 作者：[Zhanli Li / 李展利](https://zhanli-li.github.io/)  
+
 - Author: [Zhanli Li / 李展利](https://zhanli-li.github.io/)
-- 指导老师：[Xingyu Wang / 王新宇](https://wls.zuel.edu.cn/2022/0517/c3776a299072/page.htm)  
 - Supervisor: [Xingyu Wang / 王新宇](https://wls.zuel.edu.cn/2022/0517/c3776a299072/page.htm)
 
 ---
